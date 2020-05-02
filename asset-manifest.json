@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parking-lot-system/static/css/main.3f58b5b1.chunk.css",
+    "main.js": "/parking-lot-system/static/js/main.d30ad3ed.chunk.js",
+    "main.js.map": "/parking-lot-system/static/js/main.d30ad3ed.chunk.js.map",
+    "runtime-main.js": "/parking-lot-system/static/js/runtime-main.505dc7a2.js",
+    "runtime-main.js.map": "/parking-lot-system/static/js/runtime-main.505dc7a2.js.map",
+    "static/js/2.ee4944e2.chunk.js": "/parking-lot-system/static/js/2.ee4944e2.chunk.js",
+    "static/js/2.ee4944e2.chunk.js.map": "/parking-lot-system/static/js/2.ee4944e2.chunk.js.map",
+    "index.html": "/parking-lot-system/index.html",
+    "precache-manifest.5283c936d51872fa04abcee1aefa82cc.js": "/parking-lot-system/precache-manifest.5283c936d51872fa04abcee1aefa82cc.js",
+    "service-worker.js": "/parking-lot-system/service-worker.js",
+    "static/css/main.3f58b5b1.chunk.css.map": "/parking-lot-system/static/css/main.3f58b5b1.chunk.css.map",
+    "static/js/2.ee4944e2.chunk.js.LICENSE.txt": "/parking-lot-system/static/js/2.ee4944e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.505dc7a2.js",
+    "static/js/2.ee4944e2.chunk.js",
+    "static/css/main.3f58b5b1.chunk.css",
+    "static/js/main.d30ad3ed.chunk.js"
+  ]
+}
