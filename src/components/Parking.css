@@ -1,0 +1,55 @@
+.total-cars-parked{
+  float: left;  
+}
+
+.car-parked-color{
+  color: #ff0000;
+}
+
+.parking-lot-space {
+  background-color: #2a8b8b;
+  margin: 0 0 30px;
+  padding: 10px;
+}
+
+.parking-lot-space h2{
+  color: #ffffff;
+  font-weight: 200;
+}
+
+.park-car-btn-div{
+  height: 60px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.park-car-btn{
+  float: right;
+  margin: 10px 5px;
+}
+
+.search-car-div{
+  height: 50px;
+  width: 100%;
+  margin: 10px 0;
+}
+
+.search-car{
+  float: right;
+  margin: 10px 5px;
+}
+
+.search-car-form-input{
+  margin: 5px 0;
+}
+
+.table td, .table th {
+  padding: .75rem;
+  text-align: center;
+  vertical-align: top;
+  border: 1px solid #dee2e6;
+}
+
+.table .car-setting{
+  text-align: left;
+}
